@@ -26,7 +26,7 @@
 		"expo": "~50.0.8",
 		"expo-file-system": "~16.0.7",
 		"expo-status-bar": "~1.11.1",
-		"graphql": "^16.6.0",
+		"graphql": "^16.8.1",
 		"react": "18.2.0",
 		"react-dom": "18.2.0",
 		"react-hook-form": "^7.38.0",
